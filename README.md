@@ -1,1 +1,1 @@
-![littlepoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlepoco&show_icons=true&theme=vue?count_private=true)
+![Littlepoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlepoco&count_private=true&show_icons=true&theme=vue)
